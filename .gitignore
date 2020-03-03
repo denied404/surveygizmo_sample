@@ -1,0 +1,8 @@
+# Virtualenv folder
+.venv
+
+# Direnv file
+.envrc
+
+# Vim swap files
+*.swp
